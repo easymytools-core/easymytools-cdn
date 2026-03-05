@@ -1,0 +1,23 @@
+{
+  "name": "EasyMyTools Advanced",
+  "short_name": "EasyMyTools",
+  "description": "World's No.1 Ultimate Smart Tools Ecosystem",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#F0F2F5",
+  "theme_color": "#1a73e8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr7U3TCa9aILkWWHTveKnt99Cesva9OanC6JANo4bImjzYUNts2KZwIFy6IUvfZDObnAymx3DTlTraIOa8Lrr3ZVB8Y_ZrWT05Pge6H48bc6Ss08JXu9m_KCokQ6lxrvXubdmyaJjquThSgkvfIWmndZoJO_P_X7EqZvmdTOC4mmFto0q0XjDLbMgIoSQ/s320/WhatsApp%20Image%202026-02-22%20at%202.04.46%20PM.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr7U3TCa9aILkWWHTveKnt99Cesva9OanC6JANo4bImjzYUNts2KZwIFy6IUvfZDObnAymx3DTlTraIOa8Lrr3ZVB8Y_ZrWT05Pge6H48bc6Ss08JXu9m_KCokQ6lxrvXubdmyaJjquThSgkvfIWmndZoJO_P_X7EqZvmdTOC4mmFto0q0XjDLbMgIoSQ/s512/WhatsApp%20Image%202026-02-22%20at%202.04.46%20PM.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
